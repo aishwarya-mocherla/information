@@ -211,8 +211,3 @@ a:hover {
     background-position-y: center
 }
 
-@media(max-width:1281px) {
-    * {
-        height: min-content;
-    }
-}
